@@ -1,1 +1,1 @@
-In this project I'm learning Django framework
+In this project I'm learning Django framework from https://docs.djangoproject.com
